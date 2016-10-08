@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if [ -a /Library/lssys/mobilefilter.xml ]
+if [ -a /usr/local/bin/mobilefilter ]
 then
 LightspeedMobileFilterUUID=`grep MachineUUID /Library/lssys/mobilefilter.xml | cut -c 14-49`
 else
