@@ -1,1 +1,1 @@
-# os_x_scripts
+# mac OS scripts
