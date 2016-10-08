@@ -8,4 +8,6 @@
 kextunload /System/Library/Extensions/MobileFilterKext.kext
 rm -R /System/Library/Extensions/MobileFilterKext.kext
 
+#/usr/sbin/pkgutil --forget com.lightspeedsystems.mobilefilter.pkg
+
 exit 0
