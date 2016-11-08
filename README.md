@@ -1,1 +1,1 @@
-# mac OS scripts
+# macOS scripts
