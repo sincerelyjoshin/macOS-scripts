@@ -6,7 +6,7 @@
 /bin/rm /Library/LaunchDaemons/com.lightspeedsystems.mobilefilter.plist
 
 kextunload /System/Library/Extensions/MobileFilterKext.kext
-rm -R /System/Library/Extensions/MobileFilterKext.kext
+/bin/rm -R /System/Library/Extensions/MobileFilterKext.kext
 
 #/usr/sbin/pkgutil --forget com.lightspeedsystems.mobilefilter.pkg
 
