@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.apple.symbolichotkeys</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>AppleSymbolicHotKeys</key>
+								<dict>
+									<key>79</key>
+									<dict>
+										<key>enabled</key>
+										<string>0</string>
+									</dict>
+									<key>80</key>
+									<dict>
+										<key>enabled</key>
+										<string>0</string>
+									</dict>
+									<key>81</key>
+									<dict>
+										<key>enabled</key>
+										<string>0</string>
+									</dict>
+									<key>82</key>
+									<dict>
+										<key>enabled</key>
+										<string>0</string>
+									</dict>
+								</dict>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.c801b4e4-92d0-4f0b-99c3-ed9667ac0a23.alacarte.customsettings.421c2d6f-c247-4aca-b417-9e5723d2d8e8</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>421c2d6f-c247-4aca-b417-9e5723d2d8e8</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Included custom settings:
+com.apple.symbolichotkeys
+</string>
+	<key>PayloadDisplayName</key>
+	<string>MCXToProfile: com.apple.symbolichotkeys</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.symbolichotkeys-DisableSpaces</string>
+	<key>PayloadOrganization</key>
+	<string></string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>c801b4e4-92d0-4f0b-99c3-ed9667ac0a23</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
