@@ -11,3 +11,5 @@ sudo -u $loggedInUser defaults write com.apple.symbolichotkeys AppleSymbolicHotK
 sudo -u $loggedInUser defaults write com.apple.symbolichotkeys AppleSymbolicHotKeys -dict-add 81 "{ enabled = 0; }"
 
 sudo -u $loggedInUser defaults write com.apple.symbolichotkeys AppleSymbolicHotKeys -dict-add 82 "{ enabled = 0; }"
+
+exit 0
