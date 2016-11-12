@@ -1,7 +1,5 @@
 #!/bin/sh
 
-echo "detecting presence of mms.cfg"
-
 if [ -a /Library/Application\ Support/Macromedia/mms.cfg ]
     then
         mv /Library/Application\ Support/Macromedia/mms.cfg /Library/Application\ Support/Macromedia/mms.cfg.bk
