@@ -9,9 +9,9 @@ fi
 
 if [ LightspeedMobileFilterUUID=="" ]
 then
-/bin/echo "<result>No UUID Available</result>"
+echo "<result>No UUID Available</result>"
 else
-/bin/echo "<result>$LightspeedMobileFilterUUID</result>"
+echo "<result>$LightspeedMobileFilterUUID</result>"
 fi
 
 exit 0
