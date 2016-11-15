@@ -1,5 +1,6 @@
 #!/bin/sh
 
-defaults write NSGlobalDomain NSAutomaticSpellingCorrectionEnabled -bool false
+defaults write /Library/Preferences/.GlobalPreferences.plist NSAutomaticSpellingCorrectionEnabled -bool false
+defaults read /Library/Preferences/.GlobalPreferences.plist NSAutomaticSpellingCorrectionEnabled
 
 exit 0
