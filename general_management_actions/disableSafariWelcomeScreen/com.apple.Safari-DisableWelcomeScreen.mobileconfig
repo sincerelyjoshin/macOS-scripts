@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.apple.Safari</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>LastSafariVersionWithWelcomePage</key>
+								<string>20.0</string>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.106f1444-b4a6-45ce-8036-0291621b7b92.alacarte.customsettings.459759c2-cba2-410a-afc4-4fe35919e2e0</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>459759c2-cba2-410a-afc4-4fe35919e2e0</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Included custom settings:
+com.apple.Safari
+</string>
+	<key>PayloadDisplayName</key>
+	<string>MCXToProfile: com.apple.Safari</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.Safari-DisableWelcomeScreen</string>
+	<key>PayloadOrganization</key>
+	<string></string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>106f1444-b4a6-45ce-8036-0291621b7b92</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
