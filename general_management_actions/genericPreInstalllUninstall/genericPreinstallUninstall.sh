@@ -1,6 +1,6 @@
 #!/bin/bash
 
-targetApp="/Path/To/Targe/Application.app"
+targetApp="/Path/To/Application.app"
 
 if [ -d "${targetApp}" ]
   then
