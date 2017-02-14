@@ -12,6 +12,6 @@ then
 LightspeedUserAgentIdentServer="IdentServer not configured"
 fi
 
-echo "<result>$LightspeedUserAgentIdentServer</result>"
+echo $LightspeedUserAgentIdentServer
 
 exit 0
