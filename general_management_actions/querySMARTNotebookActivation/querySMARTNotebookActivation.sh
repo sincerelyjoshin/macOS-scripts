@@ -7,6 +7,11 @@ if [ -d /Applications/SMART\ Technologies/Notebook.app ]
     ActivationStatus="Not Installed"
 fi
 
+if [ -z ActivationStatus ]
+  then
+    ActivationStatus="Activation Status Not Available"
+fi
+
 echo $ActivationStatus
 
 exit 0
