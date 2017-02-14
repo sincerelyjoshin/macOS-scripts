@@ -15,7 +15,7 @@ OSVERS=$(sw_vers -productVersion | awk -F. '{print $2}')
 USERNAME="sailor"
 
 # Set the name which is displayed in System Preferences for the account
-DISPLAYNAME="Sailor User"
+DISPLAYNAME="Sailor Guest"
 
 # Set the account's UID
 GUESTUID="600"
