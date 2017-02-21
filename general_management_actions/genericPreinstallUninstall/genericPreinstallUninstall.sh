@@ -10,3 +10,5 @@ if [ -d "${targetApp}" ]
   else
     echo "${targetApp} not found on disk"
 fi
+
+exit 0
