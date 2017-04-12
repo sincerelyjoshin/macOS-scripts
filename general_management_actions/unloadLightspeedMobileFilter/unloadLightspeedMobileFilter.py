@@ -1,7 +1,6 @@
 #!/usr/bin/python
 
 import os
-import shutil
 import sys
 
 os.system("/usr/local/bin/mobilefilter -unload")
