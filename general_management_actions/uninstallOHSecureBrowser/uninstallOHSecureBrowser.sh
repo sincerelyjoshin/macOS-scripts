@@ -1,7 +1,10 @@
-#!/bin/sh
+#!/bin/bash
 
-if [ -d /Applications/OHSecureBrowser.app ]
-then rm -rf /Applications/OHSecureBrowser.app/
+targetApp="/Applications/OHSecureBrowser.app"
+
+if [ -d "${targetApp}" ]
+  then rm -R "${targetApp}"
+  else echo "${targetApp} does not exist"
 fi
 
 exit 0
