@@ -15,6 +15,4 @@ if [ -a /System/Library/Extensions/MobileFilterKext.kext ]
   else "/System/Library/Extensions/MobileFilterKext.kext does not exist"
 fi
 
-#/usr/sbin/pkgutil --forget com.lightspeedsystems.mobilefilter.pkg
-
 exit 0
