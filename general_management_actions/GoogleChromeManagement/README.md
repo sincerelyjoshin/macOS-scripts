@@ -1,17 +1,21 @@
+## OBECTIVE
+Require macOS clients to log into Chrome to enforce policies set at Google Admin Console.
 
-## 3 COMPONENTS
-Basic knowledge of Google Chrome policy is recommended to understand how the 3 components work with each other. https://support.google.com/chrome/a/answer/187202
+All http:// and https:// traffic will be blocked besides the Google accounts login page (https://accounts.google.com). Once a user is logged in, http and https traffic will be restored and users will be subject to all additional policies configured in the Google Admin Console.
 
-  **1. LaunchAgent** - blacklists all http:// and https:// traffic (Policy Level - Recommended)
+This is accomplished via 3 components. Basic knowledge of Google Chrome policy is recommended to understand how the 3 components work with each other. https://support.google.com/chrome/a/answer/187202
 
-  **2. Configuration Profile** - whitelists accounts.google.com and restricts which domains can log into Chrome (Policy Level - Mandatory)
+**COMPONENTS:**
 
-  **3. Chrome Management from Google Admin Panel** - blacklists foo://bar and whitelists all http:// and https:// traffic (Policy Level - Mandatory)
+  1. Launch Agent - blacklists all http:// and https:// traffic (Policy Level - Recommended)
 
+  2. Configuration Profile - whitelists accounts.google.com and restricts which domains can log into Chrome (Policy Level - Mandatory)
+
+  3. Chrome Management from Google Admin Panel - blacklists foo://bar and adds all http:// and https:// traffic to the blacklist exeption(Policy Level - Mandatory)
 
 ## LAUNCH AGENT
 
-The LaunchAgent will run the following command on user login:
+The launch agent will run the following command on user login:
 ```sh
 defaults write com.google.Chrome URLBlacklist -array '"http://*"' '"https://*"'
 ```
@@ -61,6 +65,6 @@ The Configuration Profile for preference domain com.google.Chrome will whitelist
 
 ## CHROME MANAGEMENT - GOOGLE ADMIN CONSOLE
 
-From <a href="https://admin.google.com/">Google Admin Console</a>, Chrome management needs to be configured with a URL Blacklist and a URL Blacklist Exception. I recommend setting the blacklist to a bogus URL with a bogus protocol: ``foo://bar``. The Blacklist Exception needs to wildcard all http and https traffic: ``http://*`` and ``https://*``.
+From <a href="https://admin.google.com/">Google Admin Console</a>, Chrome management needs to be configured with a URL Blacklist and a URL Blacklist Exception. I recommend setting the blacklist to a bogus URL with a bogus protocol: ``foo://bar``. The Blacklist Exception needs to wildcard all ``http://*`` and ``https://*`` traffic.
 
 ![Chrome Management](https://github.com/sincerelyjoshin/macOS_scripts/blob/master/general_management_actions/GoogleChromeManagement/GoogleAdminConsole-ChromeManagement.png)
