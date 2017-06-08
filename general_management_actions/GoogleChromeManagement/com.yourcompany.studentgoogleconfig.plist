@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Label</key>
-	<string>org.avalanche.studentgoogleconfig</string>
+	<string>com.yourcompany.studentgoogleconfig</string>
 	<key>LowPriorityIO</key>
 	<false/>
 	<key>Nice</key>

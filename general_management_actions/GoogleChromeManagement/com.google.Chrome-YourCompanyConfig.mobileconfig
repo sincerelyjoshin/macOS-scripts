@@ -15,7 +15,7 @@
 							<key>mcx_preference_settings</key>
 							<dict>
 								<key>RestrictSigninToPattern</key>
-								<string>*@avalanche.org</string>
+								<string>*@yourcompany.com</string>
 								<key>URLWhitelist</key>
 								<array>
 									<string>accounts.google.com</string>
@@ -46,7 +46,7 @@ com.google.Chrome
 	<key>PayloadIdentifier</key>
 	<string>com.google.chrome-studentchromeconfig</string>
 	<key>PayloadOrganization</key>
-	<string>Avalanche</string>
+	<string>YourCompany</string>
 	<key>PayloadRemovalDisallowed</key>
 	<true/>
 	<key>PayloadScope</key>

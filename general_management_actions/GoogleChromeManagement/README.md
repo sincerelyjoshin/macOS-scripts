@@ -27,7 +27,7 @@ This will block all http and https traffic when using Google Chrome at the Recom
 <plist version="1.0">
 <dict>
 	<key>Label</key>
-	<string>org.avalanche.studentgoogleconfig</string>
+	<string>com.yourcompany.studentgoogleconfig</string>
 	<key>LowPriorityIO</key>
 	<false/>
 	<key>Nice</key>
@@ -54,7 +54,7 @@ The Configuration Profile for preference domain com.google.Chrome will whitelist
 <plist version="1.0">
 <dict>
 	<key>RestrictSigninToPattern</key>
-	<string>*@avalanche.org</string>
+	<string>*@yourcompany.com</string>
 	<key>URLWhitelist</key>
 	<array>
 		<string>accounts.google.com</string>
