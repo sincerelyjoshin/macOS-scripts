@@ -8,6 +8,7 @@
       <string>/Library/Application Support/</string>
       <string>/usr/local/</string>
       <string>/Library/Internet Plug-Ins/</string>
+      <string>/Library/PrivilegedHelperTools/</string>
     </array>
     <key>familyControlsEnabled</key>
     <true/>
@@ -39,7 +40,6 @@
       <string>/Library/Application Support/Microsoft/</string>
       <string>/Library/Application Support/regid.1986-12.com.adobe/</string>
       <string>/Library/Application Support/GarageBand/</string>
-      <string>/Library/PrivilegedHelperTools/</string>
       <string>/System/Library/CoreServices/Applications/Directory Utility.app/</string>
       <string>/System/Library/CoreServices/Applications/Folder Actions Setup.app/</string>
       <string>/System/Library/CoreServices/Applications/Network Utility.app/</string>
