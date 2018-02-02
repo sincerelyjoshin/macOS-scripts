@@ -18,6 +18,7 @@
       <string>com.apple.preference.trackpad</string>
       <string>com.apple.preference.universalaccess</string>
       <string>com.wacom.PenTabletSettingsPrefPane</string>
+      <string>com.wacom.ProfessionalControlPanel</string>
     </array>
     <key>HiddenPreferencePanes</key>
     <array/>
