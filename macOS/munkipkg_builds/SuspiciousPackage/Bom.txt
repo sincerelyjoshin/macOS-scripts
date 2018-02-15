@@ -1,0 +1,414 @@
+.	40755	0/0
+./Applications	40755	0/0
+./Applications/._Suspicious Package.app	40755	0/0	0	0
+./Applications/Suspicious Package.app	40755	0/0
+./Applications/Suspicious Package.app/._Contents	40755	0/0	0	0
+./Applications/Suspicious Package.app/Contents	40755	0/0
+./Applications/Suspicious Package.app/Contents/._Frameworks	40755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/._Info.plist	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/._Library	40755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/._MacOS	40755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/._PkgInfo	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/._Resources	40755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/._SharedSupport	40755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/.__CodeSignature	40755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks	40755	0/0
+./Applications/Suspicious Package.app/Contents/Frameworks/._MRSAppKit.framework	40755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/._MRSFoundation.framework	40755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/._MRSGraphics.framework	40755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/._SuspiciousPackageCore.framework	40755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSAppKit.framework	40755	0/0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSAppKit.framework/._Versions	40755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSAppKit.framework/MRSAppKit	120755	0/0	26	101656086	Versions/Current/MRSAppKit
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSAppKit.framework/Resources	120755	0/0	26	3302263027	Versions/Current/Resources
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSAppKit.framework/Versions	40755	0/0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSAppKit.framework/Versions/._A	40755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSAppKit.framework/Versions/A	40755	0/0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSAppKit.framework/Versions/A/._MRSAppKit	100755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSAppKit.framework/Versions/A/._Resources	40755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSAppKit.framework/Versions/A/.__CodeSignature	40755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSAppKit.framework/Versions/A/MRSAppKit	100755	0/0	724976	906937062
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSAppKit.framework/Versions/A/Resources	40755	0/0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSAppKit.framework/Versions/A/Resources/._Base.lproj	40755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSAppKit.framework/Versions/A/Resources/._Info.plist	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSAppKit.framework/Versions/A/Resources/._en.lproj	40755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSAppKit.framework/Versions/A/Resources/Base.lproj	40755	0/0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSAppKit.framework/Versions/A/Resources/Base.lproj/._ChartColorSchemeEditView.nib	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSAppKit.framework/Versions/A/Resources/Base.lproj/._StatusOverlayView.nib	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSAppKit.framework/Versions/A/Resources/Base.lproj/ChartColorSchemeEditView.nib	100644	0/0	49544	1904792482
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSAppKit.framework/Versions/A/Resources/Base.lproj/StatusOverlayView.nib	100644	0/0	5867	1187251920
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSAppKit.framework/Versions/A/Resources/Info.plist	100644	0/0	1375	585547641
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSAppKit.framework/Versions/A/Resources/en.lproj	40755	0/0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSAppKit.framework/Versions/A/Resources/en.lproj/._ContentFilterCriteria.strings	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSAppKit.framework/Versions/A/Resources/en.lproj/._Errors.strings	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSAppKit.framework/Versions/A/Resources/en.lproj/._Localizable.strings	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSAppKit.framework/Versions/A/Resources/en.lproj/ContentFilterCriteria.strings	100644	0/0	1261	287423065
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSAppKit.framework/Versions/A/Resources/en.lproj/Errors.strings	100644	0/0	42	1257262528
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSAppKit.framework/Versions/A/Resources/en.lproj/Localizable.strings	100644	0/0	1313	1917126353
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSAppKit.framework/Versions/A/_CodeSignature	40755	0/0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSAppKit.framework/Versions/A/_CodeSignature/._CodeResources	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSAppKit.framework/Versions/A/_CodeSignature/CodeResources	100644	0/0	4551	2967716517
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSAppKit.framework/Versions/Current	120755	0/0	1	1751207896	A
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSFoundation.framework	40755	0/0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSFoundation.framework/._Versions	40755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSFoundation.framework/MRSFoundation	120755	0/0	30	2128757877	Versions/Current/MRSFoundation
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSFoundation.framework/Resources	120755	0/0	26	3302263027	Versions/Current/Resources
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSFoundation.framework/SharedSupport	120755	0/0	30	1131387725	Versions/Current/SharedSupport
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSFoundation.framework/Versions	40755	0/0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSFoundation.framework/Versions/._A	40755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSFoundation.framework/Versions/A	40755	0/0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSFoundation.framework/Versions/A/._MRSFoundation	100755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSFoundation.framework/Versions/A/._Resources	40755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSFoundation.framework/Versions/A/._SharedSupport	40755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSFoundation.framework/Versions/A/.__CodeSignature	40755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSFoundation.framework/Versions/A/MRSFoundation	100755	0/0	527536	1511947606
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSFoundation.framework/Versions/A/Resources	40755	0/0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSFoundation.framework/Versions/A/Resources/._Info.plist	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSFoundation.framework/Versions/A/Resources/._en.lproj	40755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSFoundation.framework/Versions/A/Resources/Info.plist	100644	0/0	1387	2655862839
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSFoundation.framework/Versions/A/Resources/en.lproj	40755	0/0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSFoundation.framework/Versions/A/Resources/en.lproj/._Errors.strings	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSFoundation.framework/Versions/A/Resources/en.lproj/._HelpIndexStopWords.plist	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSFoundation.framework/Versions/A/Resources/en.lproj/._Localizable.strings	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSFoundation.framework/Versions/A/Resources/en.lproj/Errors.strings	100644	0/0	2101	3491091100
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSFoundation.framework/Versions/A/Resources/en.lproj/HelpIndexStopWords.plist	100644	0/0	535	3846750405
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSFoundation.framework/Versions/A/Resources/en.lproj/Localizable.strings	100644	0/0	434	2627692585
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSFoundation.framework/Versions/A/SharedSupport	40755	0/0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSFoundation.framework/Versions/A/SharedSupport/._com.mothersruin.watchdog	100755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSFoundation.framework/Versions/A/SharedSupport/._unpbzx	100755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSFoundation.framework/Versions/A/SharedSupport/com.mothersruin.watchdog	100755	0/0	60064	2646816905
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSFoundation.framework/Versions/A/SharedSupport/unpbzx	100755	0/0	68304	3144522008
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSFoundation.framework/Versions/A/_CodeSignature	40755	0/0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSFoundation.framework/Versions/A/_CodeSignature/._CodeResources	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSFoundation.framework/Versions/A/_CodeSignature/CodeResources	100644	0/0	4289	3481064645
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSFoundation.framework/Versions/Current	120755	0/0	1	1751207896	A
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSGraphics.framework	40755	0/0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSGraphics.framework/._Versions	40755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSGraphics.framework/MRSGraphics	120755	0/0	28	3617271179	Versions/Current/MRSGraphics
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSGraphics.framework/Resources	120755	0/0	26	3302263027	Versions/Current/Resources
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSGraphics.framework/Versions	40755	0/0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSGraphics.framework/Versions/._A	40755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSGraphics.framework/Versions/A	40755	0/0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSGraphics.framework/Versions/A/._MRSGraphics	100755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSGraphics.framework/Versions/A/._Resources	40755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSGraphics.framework/Versions/A/.__CodeSignature	40755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSGraphics.framework/Versions/A/MRSGraphics	100755	0/0	236720	3582157663
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSGraphics.framework/Versions/A/Resources	40755	0/0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSGraphics.framework/Versions/A/Resources/._ChartDefaults.colorScheme	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSGraphics.framework/Versions/A/Resources/._Info.plist	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSGraphics.framework/Versions/A/Resources/._en.lproj	40755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSGraphics.framework/Versions/A/Resources/ChartDefaults.colorScheme	100644	0/0	3968	1281286369
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSGraphics.framework/Versions/A/Resources/Info.plist	100644	0/0	1964	2461657599
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSGraphics.framework/Versions/A/Resources/en.lproj	40755	0/0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSGraphics.framework/Versions/A/Resources/en.lproj/._Errors.strings	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSGraphics.framework/Versions/A/Resources/en.lproj/._Localizable.strings	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSGraphics.framework/Versions/A/Resources/en.lproj/Errors.strings	100644	0/0	903	2926177558
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSGraphics.framework/Versions/A/Resources/en.lproj/Localizable.strings	100644	0/0	42	1257262528
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSGraphics.framework/Versions/A/_CodeSignature	40755	0/0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSGraphics.framework/Versions/A/_CodeSignature/._CodeResources	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSGraphics.framework/Versions/A/_CodeSignature/CodeResources	100644	0/0	3718	865311705
+./Applications/Suspicious Package.app/Contents/Frameworks/MRSGraphics.framework/Versions/Current	120755	0/0	1	1751207896	A
+./Applications/Suspicious Package.app/Contents/Frameworks/SuspiciousPackageCore.framework	40755	0/0
+./Applications/Suspicious Package.app/Contents/Frameworks/SuspiciousPackageCore.framework/._Versions	40755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/SuspiciousPackageCore.framework/Resources	120755	0/0	26	3302263027	Versions/Current/Resources
+./Applications/Suspicious Package.app/Contents/Frameworks/SuspiciousPackageCore.framework/SuspiciousPackageCore	120755	0/0	38	3375732542	Versions/Current/SuspiciousPackageCore
+./Applications/Suspicious Package.app/Contents/Frameworks/SuspiciousPackageCore.framework/Versions	40755	0/0
+./Applications/Suspicious Package.app/Contents/Frameworks/SuspiciousPackageCore.framework/Versions/._A	40755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/SuspiciousPackageCore.framework/Versions/A	40755	0/0
+./Applications/Suspicious Package.app/Contents/Frameworks/SuspiciousPackageCore.framework/Versions/A/._Resources	40755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/SuspiciousPackageCore.framework/Versions/A/._SuspiciousPackageCore	100755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/SuspiciousPackageCore.framework/Versions/A/._XPCServices	40755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/SuspiciousPackageCore.framework/Versions/A/.__CodeSignature	40755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/SuspiciousPackageCore.framework/Versions/A/Resources	40755	0/0
+./Applications/Suspicious Package.app/Contents/Frameworks/SuspiciousPackageCore.framework/Versions/A/Resources/._Info.plist	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/SuspiciousPackageCore.framework/Versions/A/Resources/._en.lproj	40755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/SuspiciousPackageCore.framework/Versions/A/Resources/Info.plist	100644	0/0	1516	2125618248
+./Applications/Suspicious Package.app/Contents/Frameworks/SuspiciousPackageCore.framework/Versions/A/Resources/en.lproj	40755	0/0
+./Applications/Suspicious Package.app/Contents/Frameworks/SuspiciousPackageCore.framework/Versions/A/Resources/en.lproj/._Errors.strings	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/SuspiciousPackageCore.framework/Versions/A/Resources/en.lproj/._Errors.stringsdict	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/SuspiciousPackageCore.framework/Versions/A/Resources/en.lproj/._Localizable.strings	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/SuspiciousPackageCore.framework/Versions/A/Resources/en.lproj/._Localizable.stringsdict	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/SuspiciousPackageCore.framework/Versions/A/Resources/en.lproj/Errors.strings	100644	0/0	14861	51602966
+./Applications/Suspicious Package.app/Contents/Frameworks/SuspiciousPackageCore.framework/Versions/A/Resources/en.lproj/Errors.stringsdict	100644	0/0	433	3760613181
+./Applications/Suspicious Package.app/Contents/Frameworks/SuspiciousPackageCore.framework/Versions/A/Resources/en.lproj/Localizable.strings	100644	0/0	19414	276008035
+./Applications/Suspicious Package.app/Contents/Frameworks/SuspiciousPackageCore.framework/Versions/A/Resources/en.lproj/Localizable.stringsdict	100644	0/0	1118	4099293618
+./Applications/Suspicious Package.app/Contents/Frameworks/SuspiciousPackageCore.framework/Versions/A/SuspiciousPackageCore	100755	0/0	567104	2795224947
+./Applications/Suspicious Package.app/Contents/Frameworks/SuspiciousPackageCore.framework/Versions/A/XPCServices	40755	0/0
+./Applications/Suspicious Package.app/Contents/Frameworks/SuspiciousPackageCore.framework/Versions/A/XPCServices/._com.mothersruin.XPCService.UpdateChecker.xpc	40755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/SuspiciousPackageCore.framework/Versions/A/XPCServices/com.mothersruin.XPCService.UpdateChecker.xpc	40755	0/0
+./Applications/Suspicious Package.app/Contents/Frameworks/SuspiciousPackageCore.framework/Versions/A/XPCServices/com.mothersruin.XPCService.UpdateChecker.xpc/._Contents	40755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/SuspiciousPackageCore.framework/Versions/A/XPCServices/com.mothersruin.XPCService.UpdateChecker.xpc/Contents	40755	0/0
+./Applications/Suspicious Package.app/Contents/Frameworks/SuspiciousPackageCore.framework/Versions/A/XPCServices/com.mothersruin.XPCService.UpdateChecker.xpc/Contents/._Info.plist	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/SuspiciousPackageCore.framework/Versions/A/XPCServices/com.mothersruin.XPCService.UpdateChecker.xpc/Contents/._MacOS	40755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/SuspiciousPackageCore.framework/Versions/A/XPCServices/com.mothersruin.XPCService.UpdateChecker.xpc/Contents/._Resources	40755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/SuspiciousPackageCore.framework/Versions/A/XPCServices/com.mothersruin.XPCService.UpdateChecker.xpc/Contents/.__CodeSignature	40755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/SuspiciousPackageCore.framework/Versions/A/XPCServices/com.mothersruin.XPCService.UpdateChecker.xpc/Contents/Info.plist	100644	0/0	2001	1826806202
+./Applications/Suspicious Package.app/Contents/Frameworks/SuspiciousPackageCore.framework/Versions/A/XPCServices/com.mothersruin.XPCService.UpdateChecker.xpc/Contents/MacOS	40755	0/0
+./Applications/Suspicious Package.app/Contents/Frameworks/SuspiciousPackageCore.framework/Versions/A/XPCServices/com.mothersruin.XPCService.UpdateChecker.xpc/Contents/MacOS/._com.mothersruin.XPCService.UpdateChecker	100755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/SuspiciousPackageCore.framework/Versions/A/XPCServices/com.mothersruin.XPCService.UpdateChecker.xpc/Contents/MacOS/com.mothersruin.XPCService.UpdateChecker	100755	0/0	55360	642160405
+./Applications/Suspicious Package.app/Contents/Frameworks/SuspiciousPackageCore.framework/Versions/A/XPCServices/com.mothersruin.XPCService.UpdateChecker.xpc/Contents/Resources	40755	0/0
+./Applications/Suspicious Package.app/Contents/Frameworks/SuspiciousPackageCore.framework/Versions/A/XPCServices/com.mothersruin.XPCService.UpdateChecker.xpc/Contents/Resources/._en.lproj	40755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/SuspiciousPackageCore.framework/Versions/A/XPCServices/com.mothersruin.XPCService.UpdateChecker.xpc/Contents/Resources/en.lproj	40755	0/0
+./Applications/Suspicious Package.app/Contents/Frameworks/SuspiciousPackageCore.framework/Versions/A/XPCServices/com.mothersruin.XPCService.UpdateChecker.xpc/Contents/Resources/en.lproj/._InfoPlist.strings	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/SuspiciousPackageCore.framework/Versions/A/XPCServices/com.mothersruin.XPCService.UpdateChecker.xpc/Contents/Resources/en.lproj/InfoPlist.strings	100644	0/0	42	1257262528
+./Applications/Suspicious Package.app/Contents/Frameworks/SuspiciousPackageCore.framework/Versions/A/XPCServices/com.mothersruin.XPCService.UpdateChecker.xpc/Contents/_CodeSignature	40755	0/0
+./Applications/Suspicious Package.app/Contents/Frameworks/SuspiciousPackageCore.framework/Versions/A/XPCServices/com.mothersruin.XPCService.UpdateChecker.xpc/Contents/_CodeSignature/._CodeResources	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/SuspiciousPackageCore.framework/Versions/A/XPCServices/com.mothersruin.XPCService.UpdateChecker.xpc/Contents/_CodeSignature/CodeResources	100644	0/0	2655	4016796610
+./Applications/Suspicious Package.app/Contents/Frameworks/SuspiciousPackageCore.framework/Versions/A/_CodeSignature	40755	0/0
+./Applications/Suspicious Package.app/Contents/Frameworks/SuspiciousPackageCore.framework/Versions/A/_CodeSignature/._CodeResources	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Frameworks/SuspiciousPackageCore.framework/Versions/A/_CodeSignature/CodeResources	100644	0/0	4815	665155674
+./Applications/Suspicious Package.app/Contents/Frameworks/SuspiciousPackageCore.framework/Versions/Current	120755	0/0	1	1751207896	A
+./Applications/Suspicious Package.app/Contents/Frameworks/SuspiciousPackageCore.framework/XPCServices	120755	0/0	28	4218416995	Versions/Current/XPCServices
+./Applications/Suspicious Package.app/Contents/Info.plist	100644	0/0	4214	901087952
+./Applications/Suspicious Package.app/Contents/Library	40755	0/0
+./Applications/Suspicious Package.app/Contents/Library/._QuickLook	40755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook	40755	0/0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/._Suspicious Package.qlgenerator	40755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator	40755	0/0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/._Contents	40755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents	40755	0/0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/._Info.plist	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/._MacOS	40755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/._Resources	40755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/._SharedSupport	40755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/.__CodeSignature	40755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Info.plist	100644	0/0	3504	135959375
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/MacOS	40755	0/0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/MacOS/._Suspicious Package	100755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/MacOS/Suspicious Package	100755	0/0	95840	4045789757
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources	40755	0/0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/._Template	40755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/._en.lproj	40755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template	40755	0/0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/._CertSmallStd.png	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/._CertSmallStd_2x.png	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/._CertSmallStd_Invalid.png	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/._CertSmallStd_Invalid_2x.png	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/._CertSmallStd_UserTrust.png	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/._CertSmallStd_UserTrust_2x.png	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/._InvalidBadge.png	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/._InvalidBadge_2x.png	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/._SplashIcon.png	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/._SplashIcon@2x.png	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/._Template.html	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/._UserTrustBadge.png	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/._UserTrustBadge_2x.png	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/._ValidBadge.png	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/._ValidBadge_2x.png	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/._detail.css	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/._down.svg	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/._down_hover.svg	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/._download.svg	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/._item-disclose.svg	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/._left.svg	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/._left_hover.svg	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/._link.svg	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/._link_hover.svg	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/._locked.svg	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/._logout.svg	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/._outline_view.css	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/._outline_view.js	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/._plugin.svg	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/._preview.css	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/._preview.js	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/._restart.svg	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/._right.svg	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/._right_hover.svg	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/._script.svg	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/._shutdown.svg	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/._split_view.css	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/._split_view.js	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/._splitter-drag.svg	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/._unlocked.svg	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/._up.svg	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/._up_hover.svg	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/CertSmallStd.png	100644	0/0	3237	4163797218
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/CertSmallStd_2x.png	100644	0/0	3973	2899553296
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/CertSmallStd_Invalid.png	100644	0/0	3346	928496336
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/CertSmallStd_Invalid_2x.png	100644	0/0	4040	62178413
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/CertSmallStd_UserTrust.png	100644	0/0	3182	3777482537
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/CertSmallStd_UserTrust_2x.png	100644	0/0	3886	91717912
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/InvalidBadge.png	100644	0/0	2979	2602045482
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/InvalidBadge_2x.png	100644	0/0	3404	406544478
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/SplashIcon.png	100644	0/0	3865	1714542529
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/SplashIcon@2x.png	100644	0/0	9419	3095185195
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/Template.html	100644	0/0	6423	1881458805
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/UserTrustBadge.png	100644	0/0	2916	2184978419
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/UserTrustBadge_2x.png	100644	0/0	3090	1570053025
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/ValidBadge.png	100644	0/0	3080	3267061503
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/ValidBadge_2x.png	100644	0/0	3480	189835212
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/detail.css	100644	0/0	5247	212223100
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/down.svg	100644	0/0	828	1790059080
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/down_hover.svg	100644	0/0	827	3378488169
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/download.svg	100644	0/0	733	826298944
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/item-disclose.svg	100644	0/0	290	354269000
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/left.svg	100644	0/0	828	67683239
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/left_hover.svg	100644	0/0	827	2816819846
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/link.svg	100644	0/0	414	2394258543
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/link_hover.svg	100644	0/0	414	2972286781
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/locked.svg	100644	0/0	871	810022658
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/logout.svg	100644	0/0	759	3061393466
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/outline_view.css	100644	0/0	2011	603852862
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/outline_view.js	100644	0/0	11485	2241411861
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/plugin.svg	100644	0/0	661	2188697754
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/preview.css	100644	0/0	13298	1844278615
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/preview.js	100644	0/0	12375	3812742422
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/restart.svg	100644	0/0	410	1944856416
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/right.svg	100644	0/0	829	1515845251
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/right_hover.svg	100644	0/0	828	2628133149
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/script.svg	100644	0/0	960	2895995849
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/shutdown.svg	100644	0/0	638	3547787217
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/split_view.css	100644	0/0	1309	4071193201
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/split_view.js	100644	0/0	4845	3267026229
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/splitter-drag.svg	100644	0/0	376	1786104076
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/unlocked.svg	100644	0/0	864	467052877
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/up.svg	100644	0/0	826	4074053199
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/Template/up_hover.svg	100644	0/0	825	3796760926
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/en.lproj	40755	0/0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/en.lproj/._Errors.strings	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/en.lproj/._InfoPlist.strings	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/en.lproj/._Localizable.strings	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/en.lproj/Errors.strings	100644	0/0	388	2115679359
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/en.lproj/InfoPlist.strings	100644	0/0	250	3812307274
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/Resources/en.lproj/Localizable.strings	100644	0/0	1775	1230723833
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/SharedSupport	40755	0/0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/SharedSupport/._UpdateCheckerHost.app	40755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/SharedSupport/UpdateCheckerHost.app	40755	0/0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/SharedSupport/UpdateCheckerHost.app/._Contents	40755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/SharedSupport/UpdateCheckerHost.app/Contents	40755	0/0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/SharedSupport/UpdateCheckerHost.app/Contents/._Info.plist	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/SharedSupport/UpdateCheckerHost.app/Contents/._MacOS	40755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/SharedSupport/UpdateCheckerHost.app/Contents/._PkgInfo	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/SharedSupport/UpdateCheckerHost.app/Contents/.__CodeSignature	40755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/SharedSupport/UpdateCheckerHost.app/Contents/Info.plist	100644	0/0	1574	3053800138
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/SharedSupport/UpdateCheckerHost.app/Contents/MacOS	40755	0/0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/SharedSupport/UpdateCheckerHost.app/Contents/MacOS/._UpdateCheckerHost	100755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/SharedSupport/UpdateCheckerHost.app/Contents/MacOS/UpdateCheckerHost	100755	0/0	29520	1761196626
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/SharedSupport/UpdateCheckerHost.app/Contents/PkgInfo	100644	0/0	8	742937289
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/SharedSupport/UpdateCheckerHost.app/Contents/_CodeSignature	40755	0/0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/SharedSupport/UpdateCheckerHost.app/Contents/_CodeSignature/._CodeResources	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/SharedSupport/UpdateCheckerHost.app/Contents/_CodeSignature/CodeResources	100644	0/0	2200	345647378
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/_CodeSignature	40755	0/0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/_CodeSignature/._CodeResources	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Library/QuickLook/Suspicious Package.qlgenerator/Contents/_CodeSignature/CodeResources	100644	0/0	18203	3812005393
+./Applications/Suspicious Package.app/Contents/MacOS	40755	0/0
+./Applications/Suspicious Package.app/Contents/MacOS/._Suspicious Package	100755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/MacOS/Suspicious Package	100755	0/0	802144	2617443810
+./Applications/Suspicious Package.app/Contents/PkgInfo	100644	0/0	8	742937289
+./Applications/Suspicious Package.app/Contents/Resources	40755	0/0
+./Applications/Suspicious Package.app/Contents/Resources/._AboutIcon.tiff	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Resources/._AppIcon.icns	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Resources/._AuditStatusCaution.pdf	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Resources/._AuditStatusInfo.pdf	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Resources/._AuditStatusOkay.pdf	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Resources/._AuditStatusSkipped.pdf	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Resources/._AuditStatusWaiting.pdf	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Resources/._AuditStatusWarning.pdf	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Resources/._BadgeDownload.pdf	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Resources/._BadgeFiles.pdf	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Resources/._BadgeHome.pdf	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Resources/._BadgeLocked.pdf	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Resources/._BadgeRestart.pdf	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Resources/._BadgeScripts.pdf	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Resources/._BadgeShutDown.pdf	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Resources/._BadgeUnlocked.pdf	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Resources/._Base.lproj	40755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Resources/._DefaultSavedSearches.plist	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Resources/._ExportDocIcon.icns	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Resources/._Find.pdf	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Resources/._Help.pdf	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Resources/._LicenseAgreement.rtf	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Resources/._PackageIcon.icns	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Resources/._Scripts.pdf	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Resources/._SuspiciousPackage.sdef	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Resources/._ToolbarGetInfoTemplate.pdf	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Resources/._en.lproj	40755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Resources/AboutIcon.tiff	100644	0/0	29304	3315429276
+./Applications/Suspicious Package.app/Contents/Resources/AppIcon.icns	100644	0/0	1135656	2493951782
+./Applications/Suspicious Package.app/Contents/Resources/AuditStatusCaution.pdf	100644	0/0	2006	3534176015
+./Applications/Suspicious Package.app/Contents/Resources/AuditStatusInfo.pdf	100644	0/0	1792	654815701
+./Applications/Suspicious Package.app/Contents/Resources/AuditStatusOkay.pdf	100644	0/0	1744	158839369
+./Applications/Suspicious Package.app/Contents/Resources/AuditStatusSkipped.pdf	100644	0/0	2039	2763727716
+./Applications/Suspicious Package.app/Contents/Resources/AuditStatusWaiting.pdf	100644	0/0	1776	3534457922
+./Applications/Suspicious Package.app/Contents/Resources/AuditStatusWarning.pdf	100644	0/0	2426	3582404171
+./Applications/Suspicious Package.app/Contents/Resources/BadgeDownload.pdf	100644	0/0	1728	3477449690
+./Applications/Suspicious Package.app/Contents/Resources/BadgeFiles.pdf	100644	0/0	1798	1812900518
+./Applications/Suspicious Package.app/Contents/Resources/BadgeHome.pdf	100644	0/0	2820	1604689251
+./Applications/Suspicious Package.app/Contents/Resources/BadgeLocked.pdf	100644	0/0	2568	2028866901
+./Applications/Suspicious Package.app/Contents/Resources/BadgeRestart.pdf	100644	0/0	1784	2986634801
+./Applications/Suspicious Package.app/Contents/Resources/BadgeScripts.pdf	100644	0/0	2086	997017443
+./Applications/Suspicious Package.app/Contents/Resources/BadgeShutDown.pdf	100644	0/0	3739	3445219500
+./Applications/Suspicious Package.app/Contents/Resources/BadgeUnlocked.pdf	100644	0/0	2502	4260714204
+./Applications/Suspicious Package.app/Contents/Resources/Base.lproj	40755	0/0
+./Applications/Suspicious Package.app/Contents/Resources/Base.lproj/._BomDifferenceView.nib	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Resources/Base.lproj/._BomOutlineView.nib	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Resources/Base.lproj/._CLIHelpView.nib	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Resources/Base.lproj/._ContentFilterView.nib	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Resources/Base.lproj/._ExportStatusView.nib	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Resources/Base.lproj/._FileInfoView.nib	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Resources/Base.lproj/._FilePermissionsView.nib	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Resources/Base.lproj/._GeneralInfoView.nib	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Resources/Base.lproj/._GeneralPrefPane.nib	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Resources/Base.lproj/._HelpTextView.nib	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Resources/Base.lproj/._MainMenu.nib	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Resources/Base.lproj/._ReviewDetailView.nib	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Resources/Base.lproj/._ReviewSummaryView.nib	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Resources/Base.lproj/._SaveSearch.nib	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Resources/Base.lproj/._SavedSearchEditView.nib	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Resources/Base.lproj/._ScriptPlaceholderView.nib	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Resources/Base.lproj/._ScriptsBrowserView.nib	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Resources/Base.lproj/._ScriptsInfoView.nib	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Resources/Base.lproj/._SearchPrefPane.nib	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Resources/Base.lproj/._SuspiciousPackageDocument.nib	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Resources/Base.lproj/._UpdatePrefPane.nib	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Resources/Base.lproj/BomDifferenceView.nib	100644	0/0	23093	482005923
+./Applications/Suspicious Package.app/Contents/Resources/Base.lproj/BomOutlineView.nib	100644	0/0	34486	1633511761
+./Applications/Suspicious Package.app/Contents/Resources/Base.lproj/CLIHelpView.nib	100644	0/0	9959	2041980664
+./Applications/Suspicious Package.app/Contents/Resources/Base.lproj/ContentFilterView.nib	100644	0/0	11271	176701003
+./Applications/Suspicious Package.app/Contents/Resources/Base.lproj/ExportStatusView.nib	100644	0/0	41922	969863907
+./Applications/Suspicious Package.app/Contents/Resources/Base.lproj/FileInfoView.nib	100644	0/0	22323	3863695100
+./Applications/Suspicious Package.app/Contents/Resources/Base.lproj/FilePermissionsView.nib	100644	0/0	27075	3233030613
+./Applications/Suspicious Package.app/Contents/Resources/Base.lproj/GeneralInfoView.nib	100644	0/0	58582	2698775930
+./Applications/Suspicious Package.app/Contents/Resources/Base.lproj/GeneralPrefPane.nib	100644	0/0	14885	2881427658
+./Applications/Suspicious Package.app/Contents/Resources/Base.lproj/HelpTextView.nib	100644	0/0	3651	1129741305
+./Applications/Suspicious Package.app/Contents/Resources/Base.lproj/MainMenu.nib	100644	0/0	28608	532336419
+./Applications/Suspicious Package.app/Contents/Resources/Base.lproj/ReviewDetailView.nib	100644	0/0	33013	1062185821
+./Applications/Suspicious Package.app/Contents/Resources/Base.lproj/ReviewSummaryView.nib	100644	0/0	9025	3448287336
+./Applications/Suspicious Package.app/Contents/Resources/Base.lproj/SaveSearch.nib	100644	0/0	7454	3795793201
+./Applications/Suspicious Package.app/Contents/Resources/Base.lproj/SavedSearchEditView.nib	100644	0/0	18725	3859136650
+./Applications/Suspicious Package.app/Contents/Resources/Base.lproj/ScriptPlaceholderView.nib	100644	0/0	6046	2787326302
+./Applications/Suspicious Package.app/Contents/Resources/Base.lproj/ScriptsBrowserView.nib	100644	0/0	32958	925164797
+./Applications/Suspicious Package.app/Contents/Resources/Base.lproj/ScriptsInfoView.nib	100644	0/0	34938	2150098197
+./Applications/Suspicious Package.app/Contents/Resources/Base.lproj/SearchPrefPane.nib	100644	0/0	7955	134011217
+./Applications/Suspicious Package.app/Contents/Resources/Base.lproj/SuspiciousPackageDocument.nib	100644	0/0	18162	3984492620
+./Applications/Suspicious Package.app/Contents/Resources/Base.lproj/UpdatePrefPane.nib	100644	0/0	13166	1891513169
+./Applications/Suspicious Package.app/Contents/Resources/DefaultSavedSearches.plist	100644	0/0	566	2376253665
+./Applications/Suspicious Package.app/Contents/Resources/ExportDocIcon.icns	100644	0/0	563787	1134951635
+./Applications/Suspicious Package.app/Contents/Resources/Find.pdf	100644	0/0	4023	4055967852
+./Applications/Suspicious Package.app/Contents/Resources/Help.pdf	100644	0/0	37872	1289203232
+./Applications/Suspicious Package.app/Contents/Resources/LicenseAgreement.rtf	100644	0/0	2622	48668330
+./Applications/Suspicious Package.app/Contents/Resources/PackageIcon.icns	100644	0/0	535815	3958014058
+./Applications/Suspicious Package.app/Contents/Resources/Scripts.pdf	100644	0/0	16291	205452944
+./Applications/Suspicious Package.app/Contents/Resources/SuspiciousPackage.sdef	100644	0/0	218961	3451756371
+./Applications/Suspicious Package.app/Contents/Resources/ToolbarGetInfoTemplate.pdf	100644	0/0	15636	861792612
+./Applications/Suspicious Package.app/Contents/Resources/en.lproj	40755	0/0
+./Applications/Suspicious Package.app/Contents/Resources/en.lproj/._Errors.strings	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Resources/en.lproj/._InfoPlist.strings	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Resources/en.lproj/._Localizable.strings	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Resources/en.lproj/._Localizable.stringsdict	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Resources/en.lproj/._Scripting.strings	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Resources/en.lproj/._Scripting.stringsdict	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Resources/en.lproj/._SuspiciousPackage.helpIndex	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/Resources/en.lproj/Errors.strings	100644	0/0	4626	1915698065
+./Applications/Suspicious Package.app/Contents/Resources/en.lproj/InfoPlist.strings	100644	0/0	250	719478322
+./Applications/Suspicious Package.app/Contents/Resources/en.lproj/Localizable.strings	100644	0/0	16648	3506453739
+./Applications/Suspicious Package.app/Contents/Resources/en.lproj/Localizable.stringsdict	100644	0/0	2313	3986768751
+./Applications/Suspicious Package.app/Contents/Resources/en.lproj/Scripting.strings	100644	0/0	1328	3890864162
+./Applications/Suspicious Package.app/Contents/Resources/en.lproj/Scripting.stringsdict	100644	0/0	574	3832401378
+./Applications/Suspicious Package.app/Contents/Resources/en.lproj/SuspiciousPackage.helpIndex	100644	0/0	102400	726617374
+./Applications/Suspicious Package.app/Contents/SharedSupport	40755	0/0
+./Applications/Suspicious Package.app/Contents/SharedSupport/._spkg	100755	0/0	0	0
+./Applications/Suspicious Package.app/Contents/SharedSupport/spkg	100755	0/0	37392	1902057998
+./Applications/Suspicious Package.app/Contents/_CodeSignature	40755	0/0
+./Applications/Suspicious Package.app/Contents/_CodeSignature/._CodeResources	100644	0/0	0	0
+./Applications/Suspicious Package.app/Contents/_CodeSignature/CodeResources	100644	0/0	37402	2732256845
