@@ -1,5 +1,0 @@
-#!/bin/sh
-
-find /Applications/Google\ Chrome.app/ -name "KeystoneRegistration.framework" -type d -exec rm -r "{}" \;
-
-exit 0

@@ -1,3 +1,0 @@
-## Packages
-
-munkipkg project directory
