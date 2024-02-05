@@ -2,7 +2,7 @@
 
 if [[ $(grep "Browsing On" /private/etc/cups/cupsd.conf) ]]
 then 
-	cupsctl --no-share-printers
+	/usr/sbin/cupsctl --no-share-printers
 else 
 	exit 0
 fi

@@ -12,6 +12,6 @@ if [ -z ActivationStatus ]
     ActivationStatus="Activation Status Not Available"
 fi
 
-echo $ActivationStatus
+/bin/echo $ActivationStatus
 
 exit 0

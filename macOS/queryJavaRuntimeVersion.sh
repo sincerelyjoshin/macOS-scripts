@@ -2,7 +2,7 @@
 
 if [ -d /Library/Java/Home ]
   then
-    JavaVersion=$(java -version 2>&1 | awk '/version/{print $3}' | sed 's/"//g')
+    JavaVersion=$(java -version 2>&1 | /usr/bin/awk '/version/{print $3}' | /usr/bin/sed 's/"//g')
   else
     JavaVersion="Java runtime not installed"
 fi
@@ -12,6 +12,6 @@ if [ -z JavaVersion ]
     JavaVersion="Java runtime version not available"
 fi
 
-echo $JavaVersion
+/bin/echo $JavaVersion
 
 exit 0
