@@ -7,7 +7,7 @@ function install_rosetta()
 		if /usr/bin/pgrep oahd >/dev/null 2>&1; then
 			echo "Rosetta Installed"
 		else
-			echo "Install Rosetta"
+			/usr/sbin/softwareupdate --install-rosetta --agree-to-license
 		fi
 	fi
 }
